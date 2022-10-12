@@ -1,0 +1,13 @@
+/* :global(.component-card) {
+  background-color: lightgray;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+} */
+
+.component-card {
+  background-color: lightgray;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
